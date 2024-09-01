@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "@hono/node-server": "^1.12.2",
+        "elysia": "^1.1.11",
+        "express": "^4.19.2",
+        "hono": "^4.5.10"
+    },
+    "devDependencies": {
+        "@types/node": "^22.5.2"
+    }
+}
